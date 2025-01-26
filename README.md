@@ -12,17 +12,46 @@
 
 	
 ## ☀️ **About me**
+
 Hello! 👋 I'm passionate about programming and technology. I love exploring new languages and tools to solve problems creatively. Here, you'll find details about my projects, skills, and the technologies I work with.
 
 <br>
-- 🧑‍💻Back-End and Front-End Development<br>
-- 📈Databases and Optimization<br>
-- 📝 Systems and Software Design<br>
-- 🤝 **Personal LinkedIn**: [Click here](https://www.linkedin.com/in/juan-manuel-nosicoski-b26876291/)<br>
-- 💬 Ask me about **Java & SQL**<br>
+
+-🧑‍💻 Back-End Developer
+
+
+-📈 Databases and Optimization
+
+-📝 Systems and Software Design
+
+-🤝 Personal LinkedIn [Click here](https://www.linkedin.com/in/juan-manuel-nosicoski-b26876291/) 
+
+-💬 Ask me about **Java & SQL**
+
   
 
 <br><br>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/juan-manuel-nosicoski-b26876291/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nosicoski">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/29356165/juanmanuel-nosicoski">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://wa.me/543512806715">
+        <img src="https://img.icons8.com/doodle/40/000000/whatsapp.png" alt="WhatsApp"></a>	  
+	  <a style="margin-left: 10px;" target="_blank" href="juanmanosicoski@gmail.com">
+        <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
+	
+
+      
+
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -76,69 +105,15 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 
 
 
-</p>
-
-<br>
-<br>
-
------
-
-<br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
 
 ## <b>Designed with love✨</b>
 
-</div>
-<br>
-<br>
-<br>
-<br>
+
 
 ---
 
-<br>
 
 
