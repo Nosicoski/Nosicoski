@@ -20,7 +20,7 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 - Databases and Optimization  
 - Distributed Systems and Software Design  
 - Personal Linkedin [link](https://www.linkedin.com/in/juan-manuel-nosicoski-b26876291/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+  
 
 <br><br>
 
@@ -146,7 +146,7 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Designed with love✨</b>
 
 </div>
 <br>
@@ -158,6 +158,4 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
