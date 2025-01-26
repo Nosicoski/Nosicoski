@@ -18,7 +18,7 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 - 🧑‍💻Back-End and Front-End Development<br>
 - 📈Databases and Optimization<br>
 - 📝 Systems and Software Design<br>
-- 🤝Personal Linkedin [link](https://www.linkedin.com/in/juan-manuel-nosicoski-b26876291/)<br>
+- 🤝 **Personal LinkedIn**: [Click here](https://www.linkedin.com/in/juan-manuel-nosicoski-b26876291/)<br>
 - 💬 Ask me about **Java & SQL**<br>
   
 
