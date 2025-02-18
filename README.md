@@ -32,11 +32,6 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 -💬 Ask me about **Java & SQL**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nosicoski&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Nosicoski" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nosicoski&show_icons=true&theme=synthwave&locale=en" alt="Nosicoski" /></p>
-
 
 
 
@@ -119,11 +114,14 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 
 
 
+
+
+
 ## <b>Designed with love✨</b>
 
 
 
 ---
 
-
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nosicoski&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Nosicoski" /></p>
 
