@@ -49,8 +49,7 @@ Hello! 👋 I'm passionate about programming and technology. I love exploring ne
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 <a style="margin-left: 10px;" target="_blank" href="https://wa.me/543512806715">
         <img src="https://img.icons8.com/doodle/40/000000/whatsapp.png" alt="WhatsApp"></a>	  
-	  <a style="margin-left: 10px;" target="_blank" href="juanmanosicoski@gmail.com">
-        <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png" alt="Gmail"></a>
+	
 	
 
       
