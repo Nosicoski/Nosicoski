@@ -16,7 +16,7 @@
 	
 ## ☀️ **About me**
 
-Hello! 👋 I'm passionate about programming and technology. I love exploring new languages and tools to solve problems creatively. Here, you'll find details about my projects, skills, and the technologies I work with.
+Hello! 
 
 <br>
 
