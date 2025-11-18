@@ -90,5 +90,4 @@
 
 ---
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nosicoski&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="Nosicoski" /></p>
-
+ 
