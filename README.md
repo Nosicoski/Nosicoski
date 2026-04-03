@@ -9,32 +9,61 @@
 
 <hr>
 
-<table border="0">
+<table width="100%" border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3 align="center">🚀 Skills & Tecnologías</h3>
-      <div align="center">
-        <table>
-          <tr><td><b>Backend</b></td><td><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"></td></tr>
-          <tr><td><b>DBs</b></td><td><img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"></td></tr>
-          <tr><td><b>DevOps</b></td><td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"></td></tr>
-        </table>
-      </div>
+      <table width="100%">
+        <thead>
+          <tr>
+            <th align="left">Área</th>
+            <th align="left">Tecnologías</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>Backend & Arquitectura</b></td>
+            <td><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/-Microservices-000000?style=flat"></td>
+          </tr>
+          <tr>
+            <td><b>Bases de Datos</b></td>
+            <td><img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"></td>
+          </tr>
+          <tr>
+            <td><b>DevOps & Cloud</b></td>
+            <td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white"></td>
+          </tr>
+        </tbody>
+      </table>
     </td>
-    <td width="40%" valign="top">
+    <td width="45%" valign="top">
       <h3 align="center">🌐 Idiomas</h3>
-      <div align="center">
-        <table>
-          <thead>
-            <tr><th>Idioma</th><th>Nivel</th></tr>
-          </thead>
-          <tbody>
-            <tr><td><b>Español</b></td><td>Nativo</td></tr>
-            <tr><td><b>Inglés</b></td><td>B1</td></tr>
-            <tr><td><b>Portugués</b></td><td>A2</td></tr>
-          </tbody>
-        </table>
-      </div>
+      <table width="100%">
+        <thead>
+          <tr>
+            <th align="left">Idioma</th>
+            <th align="left">Nivel</th>
+            <th align="left">Competencia</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>Español</b></td>
+            <td>Nativo</td>
+            <td>Lengua materna</td>
+          </tr>
+          <tr>
+            <td><b>Inglés</b></td>
+            <td>Intermedio (B1)</td>
+            <td>Capacidad técnica y conversacional</td>
+          </tr>
+          <tr>
+            <td><b>Portugués</b></td>
+            <td>Básico (A2)</td>
+            <td>Comunicación inicial y lectura</td>
+          </tr>
+        </tbody>
+      </table>
     </td>
   </tr>
 </table>
