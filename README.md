@@ -7,7 +7,7 @@
 
 <h2 align="center">👨‍💻 Sobre mí</h2>
 <p align="center">
-Perfil Backend Developer con un par de años de trayectoria manejando Java y C#. Mi especialidad es el diseño de APIs, la creación de arquitecturas seguras y la programación genérica. He construido tanto sistemas monolíticos como orientados a microservicios, apoyándome en motores de bases de datos relacionales (SQL) y no relacionales (NoSQL).
+Perfil Backend Developer con años de trayectoria manejando Java y C#. Mi especialidad es la creación de arquitecturas seguras y la programación enfocada al diseño genérico. He construido tanto sistemas monolíticos como orientados a microservicios, apoyándome en motores de bases de datos relacionales (SQL) y no relacionales (NoSQL).
 </p>
 
 <br>
@@ -17,15 +17,15 @@ Perfil Backend Developer con un par de años de trayectoria manejando Java y C#.
 ### 🏥 Argensoft | Desarrollador de software Back-End
 *Abr. 2024 - Actual*
 
-Formo parte de la creación de una plataforma clínica, donde me encargo de optimizar la estructura y la velocidad general del sistema. Trabajando bajo marcos ágiles (Scrum), implemento conexiones robustas entre diferentes APIs y garantizo que las aplicaciones cumplan con todos los requerimientos de seguridad a nivel corporativo.
+Formo parte de la creación de una plataforma clínica, donde me encargo de migrar la estructura a fragmentos genericos de codigo y resolver bugs activamente ,trabajando bajo marcos ágiles (Scrum), implemento conexiones robustas entre diferentes APIs y garantizo que las aplicaciones cumplan con todos los requerimientos de seguridad a nivel corporativo.
 
 **Tecnologías destacadas:**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=dotnet&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=flat&logo=dotnet&logoColor=white) 
 
 ### 📊 Interfilsa | Asistente Administrativo
 *Ene. 2023 - Feb. 2024*
 
-Lideré la administración de flujos masivos de información mediante la creación de scripts y herramientas de automatización. Esto logró acortar tiempos en labores manuales repetitivas y mejorar la coordinación de procesos de varios equipos de la empresa.
+Lideré la administración de flujos masivos de información mediante la creación de scripts y herramientas de automatización en excel y google sheets. Esto logró acortar tiempos en labores manuales repetitivas y mejorar la coordinación de procesos de varios equipos de la empresa.
 
 **Tecnologías destacadas:**
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
@@ -68,7 +68,7 @@ Lideré la administración de flujos masivos de información mediante la creaci�
 
 <br>
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conectemos</h3>
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/juan-manuel-nosicoski-b26876291/">
